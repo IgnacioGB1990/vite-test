@@ -10,7 +10,7 @@ function App() {
  
 
       <section class="bubble">
-        <h1>Nice Curves</h1>
+        <h1>Esas curvas</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero deserunt praesentium eum quia, nesciunt minima, labore accusamus dolores at ea ex nostrum consectetur aut minus et debitis eligendi laudantium ratione.</p>
       </section>
       <section>
