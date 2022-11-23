@@ -1,0 +1,55 @@
+
+
+.h-s-body{
+    border:1px solid red;
+    width:100%;
+
+}
+   
+section {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height:80vh;
+    padding-top: 100px;
+  }
+
+
+
+.wave {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+    
+    
+
+    color:white;
+
+  }
+  
+  .wave svg {
+    position: relative;
+    display: block;
+    width: calc(117% + 1.3px);
+    height: 193px;
+  }
+  
+  .wave .shape-fill {
+    fill: #FFFFFF;
+  }
+
+
+h1{
+        font-size: 100px;
+        color:white;
+    letter-spacing: 2px;
+}
+
+p{
+    font-size:20px;
+}
