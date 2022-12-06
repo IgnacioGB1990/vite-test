@@ -17,7 +17,7 @@ section {
 h1{
     font-size: 100px;
     color:white;
-letter-spacing: 2px;
+    letter-spacing: 2px;
 }
 
 p{
@@ -65,4 +65,10 @@ font-size:20px;
 
 .bubble{
     background-color: white;
+}
+
+
+.bubble > *{
+    color: rgb(43,2,200);
+
 }
