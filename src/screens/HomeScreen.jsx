@@ -7,8 +7,7 @@ const HomeScreen = () => {
 
       <section>
         <h1>Bookymix</h1>
-        <p>¿ Tienes por casa algún libro que te estorba ?</p>
-        <p>! Intercámbialo  !</p>
+        <p>Porque todos tenemos libros en casa sin usar...</p>
 
         <div class="wave">
         <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
@@ -19,7 +18,17 @@ const HomeScreen = () => {
       </section>
 
       <section class="bubble">
-      <p>Introduce tu dirección y encuentra libros cerca de ti</p>
+        <ul>
+          <li>Intercambia un libro con alguien cercano</li>
+          <li>Ofrece a alguien algún libro que tengas por casa y libérate de espacio</li>
+          <li>Aprovecháte de gente que ya no use aquel libro que necesitas</li>
+      </ul>
+
+    </section>
+
+
+    <section class="bubble">
+       <p>Introduce tu dirección y encuentra libros cerca de ti</p>
 
     </section>
   
