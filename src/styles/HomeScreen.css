@@ -75,7 +75,17 @@ p{
     color: black;
 }
 
+.bubble > ul{
+    text-align: center;
+}
+
 .bubble > ul > li{
 border:1px solid red;
+font-size: calc(12px + 1vw);
+text-align: center;
 padding:5% 0%;
+}
+
+.search{
+
 }
